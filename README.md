@@ -1,3 +1,7 @@
+# List of Favorite songs
+Where is the love - The Black Eyed Peas
+
+------------------------------------------
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
@@ -20,4 +24,4 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+
