@@ -23,7 +23,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Hobby
 1. Made in Abyss
 2. a
-3.
+3. b
 4.
 5.
 6.
