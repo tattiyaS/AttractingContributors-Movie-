@@ -21,8 +21,9 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
-
 1. apple
 2. breads
 3. Any kind of Pasta!!!
+4. Miwa Somen
+
 
