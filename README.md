@@ -22,3 +22,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Anime Character
 1. Son Goku
+2. Takumi Usui
+
