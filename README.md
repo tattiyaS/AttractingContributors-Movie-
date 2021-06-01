@@ -15,24 +15,23 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
 # My Project (Food-collection)
 Goal - I want contributors to help me list some favorite Japanese Food.
 
-# List of Japanese Food
+# List of Anime.
 1. Sashimi
 2. Sushi
 3. Tempura
 4. Soba
-5. Kushi-katsu
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
+5. Udon
+6. Ramen
+7. Kushi-katsu
+8.
+9.
+10.
+11.
+12.
+
+
+
+
