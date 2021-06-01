@@ -23,4 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Movies
 1. La La Land
 2. 3 idiots
-3. 
+3. Bohemian Rhapsody
