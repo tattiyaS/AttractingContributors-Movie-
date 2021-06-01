@@ -25,12 +25,13 @@ Goal - I want contributors to help me list some favorite Japanese Food.
 4. Soba
 5. Udon
 6. Ramen
-7.
+7. Kushi-katsu
 8.
 9.
 10.
 11.
 12.
+
 
 
 
