@@ -21,7 +21,7 @@ Goal - I want contributors to help me list some favorite Japanese Food.
 # List of Anime.
 1. Sashimi
 2. Sushi
-3.
+3. Soba
 4.
 5.
 6.
